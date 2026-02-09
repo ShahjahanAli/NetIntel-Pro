@@ -1,0 +1,5 @@
+{
+  "name": "NetIntel Pro",
+  "description": "A high-performance network intelligence and reconnaissance dashboard. Leverage AI-driven scanning simulations, deep device fingerprinting, and dynamic network topology visualization to map out host environments.",
+  "requestFramePermissions": []
+}
